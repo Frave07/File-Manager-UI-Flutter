@@ -12,14 +12,14 @@ Puedes ver el video en mi canal de Youtube:
 
 Puedes seguirme en mis redes
 
-[FACEBOOK](https://www.facebook.com/fraveProgrammer)
-[INSTAGRAM](https://www.instagram.com/_frave)
+- [FACEBOOK](https://www.facebook.com/fraveProgrammer)
+- [INSTAGRAM](https://www.instagram.com/_frave)
 
 ## Screenshots
 
 <table>
   <tr>
-    <td><img src="" alt="splash" width="200"></td>
-    <td><img src="" alt="splash" width="200"></td>
+    <td><img src="" alt="frave-image" width="200"></td>
+    <td><img src="" alt="frave-image" width="200"></td>
   </tr>
 </table>
