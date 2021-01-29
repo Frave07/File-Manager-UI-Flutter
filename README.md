@@ -19,7 +19,7 @@ Puedes seguirme en mis redes
 
 <table>
   <tr>
-    <td><img src="" alt="frave-image" width="200"></td>
-    <td><img src="" alt="frave-image" width="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/76232843/106237134-219b9880-61cc-11eb-8650-764c59c63e09.png" alt="frave-image" width="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/76232843/106237159-3415d200-61cc-11eb-9a64-063463067e6c.png" alt="frave-image" width="200"></td>
   </tr>
 </table>
